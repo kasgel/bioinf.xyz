@@ -1,6 +1,6 @@
 baseURL = 'https://bioinf.xyz'
 languageCode = 'en-gb'
-title = 'DIY Bioinformatics'
+title = 'Bioinf XYZ'
 theme = 'hugo-book'
 
 [params]
