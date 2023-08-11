@@ -1,0 +1,8 @@
+baseURL = 'https://bioinf.xyz'
+languageCode = 'en-gb'
+title = 'DIY Bioinformatics'
+theme = 'hugo-book'
+
+[params]
+    BookTheme = 'auto'
+    BookRepo = 'https://github.com/kasgel/bioinf.xyz'
