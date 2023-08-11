@@ -1,5 +1,5 @@
 ---
-title: "Docs"
+title: "Bioinformatics XYZ"
 weight: 1
 # bookFlatSection: false
  #bookToc: true
